@@ -35,14 +35,14 @@ const DEFAULT_USER: UserProfile = {
 };
 
 const DEFAULT_CHURCH: ChurchProfile = {
-  name: 'Grace Cathedral',
+  name: 'Apostolic Faith Church, HQ Chitope',
   branch: 'Main Branch',
   district: 'Central District',
   province: 'Harare',
-  address: '123 Faith Street',
-  contact: '+263 242 000 000',
-  email: 'admin@gracecathedral.org',
-  website: 'www.gracecathedral.org',
+  address: 'P.O Box 1730, Hwedza, Zimbabwe',
+  contact: '+263773000917/ +263712552989/ +263772885158/ +263717187137',
+  email: 'afc.sgoffice@gmail.com',
+  website: 'www.afchqchitope.org',
   logo: ''
 };
 
